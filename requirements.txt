@@ -1,0 +1,12 @@
+uvicorn==0.24.0.post1
+fastapi==0.104.1
+polars==0.19.19
+geopolars==0.1.0a4
+geopandas[pandas]==0.14.1
+pandas==2.1.3
+redis[hiredis]==5.0.1
+blake3==0.3.3
+httpx==0.26.0
+pytest==7.4.3
+pytest-asyncio==0.23.2
+pytest-env==1.1.3
